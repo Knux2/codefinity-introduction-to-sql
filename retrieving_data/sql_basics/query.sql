@@ -1,0 +1,1 @@
+SELECT ca FROM ____;
